@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tinkoff_perminov_dz1</string>
+    <string name="button_caption">Press me</string>
+    <string name="no_contacts_found">No contacts with phone were found, add more contacts and try again</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="no_permissions">Permissions to read contacts not granted; Please try again</string>
+</resources>
